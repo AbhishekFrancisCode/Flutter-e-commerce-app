@@ -1,0 +1,14 @@
+{
+    "base_url": "https://magento2.vismayaonline.com/freshworld/",
+    "access_token": "pv0hbqfi7d8yyubq1itp6w25n50lu7my",
+    "home_cms_block_id": "19",
+    "brand_color": "#FF68C57C",
+    "brand_name": "Freshworld",
+    "background_color": "#FFFFFFFF",
+    "zip_codes": [
+        "560054",
+        "560012",
+        "560094",
+        "560022"
+    ]
+}
